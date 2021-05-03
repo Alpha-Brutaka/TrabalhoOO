@@ -1,3 +1,3 @@
 # TrabalhoOO
-Aluno:Guilherme de Oliveira Mendes
-Grupo: 4
+Aluno:Guilherme de Oliveira Mendes.
+Grupo: 4.
